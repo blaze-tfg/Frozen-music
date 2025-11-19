@@ -3,7 +3,7 @@ addEventListener('fetch', event => {
 });
 
 // Add your bot token here.
-const BOT_TOKEN = "your bot token here";
+const BOT_TOKEN = "8538318345:AAGv9qnzBT9N2y_5URFZOCPbgKiiyGktW3A";
 
 //Pro people: don't change this else your bot will be fucked.
 const API_BASE_URL = "https://metropolitan-loise-vibeshiftbot-f38d853c.koyeb.app";
